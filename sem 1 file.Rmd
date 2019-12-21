@@ -1,0 +1,7 @@
+---
+title: "HelloStudents"
+author: "maneesh"
+date: "21 December 2019"
+output: word_document
+---
+## this is a rstudio rmarkdown file
